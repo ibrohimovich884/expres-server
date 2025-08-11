@@ -16,5 +16,8 @@
     "url": "https://github.com/ibrohimovich884/expres-server/issues"
   },
   "homepage": "https://github.com/ibrohimovich884/expres-server#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
